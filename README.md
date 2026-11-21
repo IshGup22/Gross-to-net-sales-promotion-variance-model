@@ -6,6 +6,13 @@
 
 > **Data disclosure:** This version uses **9,000 synthetic retail transactions** and documented assumptions for discounts, trade spend, returns, COGS, variable selling expenses and budgets. Results are **GBP-denominated modeled scenarios**, not actual sales, verified promotional returns, or savings achieved for an employer. The dashboard above is a **static preview**; a native Power BI `.pbix` has **not** been created.
 
+## Live Interactive Dashboard
+
+**[View Gross-to-Net Sales & Promotion Dashboard](https://ishgup22.github.io/Gross-to-net-sales-promotion-variance-model/)**
+
+Explore net sales, contribution margins, budget variances, and promotion scenarios through an interactive financial dashboard.
+
+The project includes reproducible Python analysis, a Jupyter notebook, and Excel-based financial modelling using synthetic retail data.
 ## Business challenge
 
 Sales growth does not automatically mean better profit. This model examines how promotional discounting and volume assumptions change **gross sales, net sales, contribution profit, and margin**, then compares results against a modeled financial plan.
