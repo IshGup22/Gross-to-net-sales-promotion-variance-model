@@ -1,0 +1,12 @@
+{
+  "transactions": 9000,
+  "monthly_category_rows": 48,
+  "gross_sales_gbp": 1326363.38,
+  "net_sales_gbp": 1115342.71,
+  "contribution_profit_gbp": 374673.52,
+  "contribution_margin_pct": 33.59,
+  "plan_contribution_gbp": 442212.45,
+  "contribution_variance_gbp": -67538.93,
+  "best_profit_scenario": "Balanced offer",
+  "best_profit_scenario_change_gbp": 21379.05
+}
