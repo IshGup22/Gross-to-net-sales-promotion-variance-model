@@ -13,6 +13,17 @@
 Explore net sales, contribution margins, budget variances, and promotion scenarios through an interactive financial dashboard.
 
 The project includes reproducible Python analysis, a Jupyter notebook, and Excel-based financial modelling using synthetic retail data.
+
+## Tech Stack
+
+**Financial Analysis:** Excel, Power Query, DAX, Gross-to-Net Revenue Modelling, Variance Analysis, Scenario Modelling
+
+**Programming & Analytics:** Python, pandas, NumPy, Jupyter Notebook
+
+**Visualization:** HTML, JavaScript, Interactive Financial Dashboard
+
+**BI:** Power BI DAX Measures and Report Build Guide
+
 ## Business challenge
 
 Sales growth does not automatically mean better profit. This model examines how promotional discounting and volume assumptions change **gross sales, net sales, contribution profit, and margin**, then compares results against a modeled financial plan.
